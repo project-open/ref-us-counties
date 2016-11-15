@@ -14,6 +14,7 @@
     </database-support>
         <owner url="mailto:jon@mayuli.com">Jon Griffin</owner>
         <summary>US Counties geo-spatial data.</summary>
+        <release-date>2016-11-15</release-date>
         <vendor url="http://www.mayuli.com">Mayuli Enterprises, LLC</vendor>
         <description format="text/plain">Provides FIPS codes, name,state, population, land area, latitude and longitute, etc.</description>
 
